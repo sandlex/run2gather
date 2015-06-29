@@ -1,0 +1,183 @@
+{
+    "previous" : "/fitnessActivities?page=4&pageSize=25&noEarlierThan=1970-01-01&noLaterThan=2013-01-19&modifiedNoEarlierThan=1970-01-01&modifiedNoLaterThan=2013-01-19",
+    "items" :
+            [
+                {
+                    "duration" : 1759,
+                    "total_distance" : 6000,
+                    "start_time" : "Mon, 22 Aug 2011 19:35:54",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/48850380"
+                },
+                {
+                    "duration" : 3676,
+                    "total_distance" : 6923,
+                    "start_time" : "Sat, 20 Aug 2011 19:18:00",
+                    "type" : "Skating",
+                    "uri" : "/fitnessActivities/48577605"
+                },
+                {
+                    "duration" : 1781,
+                    "total_distance" : 6002,
+                    "start_time" : "Fri, 19 Aug 2011 18:31:44",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/48428094"
+                },
+                {
+                    "duration" : 3141.727,
+                    "total_distance" : 5299.042119,
+                    "start_time" : "Tue, 16 Aug 2011 20:17:23",
+                    "type" : "Skating",
+                    "uri" : "/fitnessActivities/47970612"
+                },
+                {
+                    "duration" : 3583.139,
+                    "total_distance" : 13807.02038,
+                    "start_time" : "Fri, 12 Aug 2011 07:38:12",
+                    "type" : "Skating",
+                    "uri" : "/fitnessActivities/47313031"
+                },
+                {
+                    "duration" : 3079,
+                    "total_distance" : 10000,
+                    "start_time" : "Tue, 9 Aug 2011 19:28:12",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/46958731"
+                },
+                {
+                    "duration" : 1744,
+                    "total_distance" : 6000,
+                    "start_time" : "Fri, 5 Aug 2011 18:50:15",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/46380739"
+                },
+                {
+                    "duration" : 1851,
+                    "total_distance" : 6000,
+                    "start_time" : "Sun, 31 Jul 2011 18:57:00",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/45624158"
+                },
+                {
+                    "duration" : 3509,
+                    "total_distance" : 11185,
+                    "start_time" : "Sat, 23 Jul 2011 20:14:12",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/44520435"
+                },
+                {
+                    "duration" : 4109.017,
+                    "total_distance" : 8318.53017699999,
+                    "start_time" : "Sun, 17 Jul 2011 19:42:13",
+                    "type" : "Skating",
+                    "uri" : "/fitnessActivities/43690343"
+                },
+                {
+                    "duration" : 1997.97,
+                    "total_distance" : 6783.041809,
+                    "start_time" : "Sat, 16 Jul 2011 20:57:09",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/43568677"
+                },
+                {
+                    "duration" : 4586.725,
+                    "total_distance" : 13628.87538,
+                    "start_time" : "Wed, 6 Jul 2011 20:10:34",
+                    "type" : "Skating",
+                    "uri" : "/fitnessActivities/42202616"
+                },
+                {
+                    "duration" : 1807.516,
+                    "total_distance" : 7338.164196,
+                    "start_time" : "Sun, 3 Jul 2011 18:20:29",
+                    "type" : "Cycling",
+                    "uri" : "/fitnessActivities/41774036"
+                },
+                {
+                    "duration" : 2909,
+                    "total_distance" : 10000,
+                    "start_time" : "Sun, 26 Jun 2011 20:32:42",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/40885374"
+                },
+                {
+                    "duration" : 1869,
+                    "total_distance" : 6400.000095,
+                    "start_time" : "Fri, 24 Jun 2011 19:30:26",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/40636887"
+                },
+                {
+                    "duration" : 1899,
+                    "total_distance" : 6800.000191,
+                    "start_time" : "Thu, 9 Jun 2011 19:03:49",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/38763590"
+                },
+                {
+                    "duration" : 2958,
+                    "total_distance" : 10000,
+                    "start_time" : "Sun, 15 May 2011 18:05:37",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/35609610"
+                },
+                {
+                    "duration" : 1809,
+                    "total_distance" : 6400.000095,
+                    "start_time" : "Tue, 10 May 2011 20:20:09",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/35142544"
+                },
+                {
+                    "duration" : 1864,
+                    "total_distance" : 6400,
+                    "start_time" : "Fri, 6 May 2011 20:15:00",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/34447497"
+                },
+                {
+                    "duration" : 1852,
+                    "total_distance" : 6400.000095,
+                    "start_time" : "Thu, 28 Apr 2011 19:50:33",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/33471730"
+                },
+                {
+                    "duration" : 1085.014,
+                    "total_distance" : 2162.909934,
+                    "start_time" : "Thu, 14 Apr 2011 20:11:13",
+                    "type" : "Running",
+                    "uri" : "/fitnessActivities/31764261"
+                },
+                {
+                    "duration" : 4559.276,
+                    "total_distance" : 6628.241311,
+                    "start_time" : "Sun, 3 Apr 2011 12:20:45",
+                    "type" : "Cross-Country Skiing",
+                    "uri" : "/fitnessActivities/30410319"
+                },
+                {
+                    "duration" : 1800,
+                    "total_distance" : 4340.000153,
+                    "start_time" : "Thu, 31 Mar 2011 23:09:20",
+                    "type" : "Elliptical",
+                    "uri" : "/fitnessActivities/30184095"
+                },
+                {
+                    "duration" : 1800,
+                    "total_distance" : 4340.000153,
+                    "start_time" : "Fri, 25 Mar 2011 21:36:55",
+                    "type" : "Elliptical",
+                    "uri" : "/fitnessActivities/29595376"
+                },
+                {
+                    "duration" : 1800,
+                    "total_distance" : 4179.999828,
+                    "start_time" : "Wed, 23 Mar 2011 21:40:39",
+                    "type" : "Elliptical",
+                    "uri" : "/fitnessActivities/29405238"
+                }
+            ],
+    "next" : "/fitnessActivities?page=6&pageSize=25&noEarlierThan=1970-01-01&noLaterThan=2013-01-19&modifiedNoEarlierThan=1970-01-01&modifiedNoLaterThan=2013-01-19",
+    "size" : 172
+}
